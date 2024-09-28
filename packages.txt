@@ -1,0 +1,3 @@
+Programs installed:
+1. nano
+2. gedit
